@@ -30,7 +30,7 @@ header > p {
 
 .meme {
     position: relative;
-    width: 90%;
+    width: 50%;
     margin: auto;
 }
 
@@ -47,7 +47,7 @@ header > p {
     margin: 15px 0;
     padding: 0 5px;
     font-family: impact, sans-serif;
-    font-size: 2em;
+    font-size: 3em;
     text-transform: uppercase;
     color: white;
     letter-spacing: 1px;
@@ -72,7 +72,7 @@ header > p {
 }
 
 .meme-form {
-    width: 90%;
+    width: 70%;
     margin: 20px auto;
     display: flex;
     justify-content: space-between;
@@ -81,6 +81,7 @@ header > p {
 .meme-form > input {
     width: 45%;
     height: 40px;
+    font-size: 25px;
 }
 
 .meme-form > button {
